@@ -142,7 +142,7 @@
       "TUNE"
     ],
     "author": [
-      "Chris"
+      "Fallow FPV"
     ],
     "keywords": [
       "actual",
@@ -163,7 +163,7 @@
   "presets": [
     {
       "fullPath": "presets/4.5/osd/Chris_osd_4_5_2.txt",
-      "hash": "5960b11f080877c6b773f907998f5401872cdafcc398b6dc71be4ee2e8968114",
+      "hash": "9eb5287d01d8aaf3943a872df820977d9620b0a1b9eb9bd8a6503c865714ef76",
       "title": "Chris OSD 4.5.2",
       "firmware_version": [
         "4.5"
@@ -177,12 +177,12 @@
         "avatar",
         "dji"
       ],
-      "author": "Chris",
+      "author": "Fallow FPV",
       "priority": 0
     },
     {
       "fullPath": "presets/4.5/rates/Chris_rates_rp1_4_5_2.txt",
-      "hash": "a0597a9e17b4a326295bcf32c97ca94d77b871e8eea0a51c6aaa51e683b79101",
+      "hash": "af23be96eeaf302f43b30d92a31934fbcbdd73026b3415e09d0643b2a1f43158",
       "title": "Chris Rates RP1 4.5.2",
       "firmware_version": [
         "4.5"
@@ -195,12 +195,12 @@
         "actual",
         "freestyle"
       ],
-      "author": "Chris",
+      "author": "Fallow FPV",
       "priority": 10000
     },
     {
       "fullPath": "presets/4.5/tune/brawler_tune_profile2_exact_4_5_2.txt",
-      "hash": "fa9869dc6fc22d6e8955fec3ba48a70e4cca59ef8c6117e2d04ad16b0a761c06",
+      "hash": "708152300d7d827b0618f7bf65afcb423d5f7ac55d10d6a493d72d8d295adf26",
       "title": "Brawler Tune Profile 2 Exact 4.5.2",
       "firmware_version": [
         "4.5"
@@ -214,7 +214,7 @@
         "exact",
         "rpm"
       ],
-      "author": "Chris",
+      "author": "Fallow FPV",
       "priority": 1000000000000
     }
   ]

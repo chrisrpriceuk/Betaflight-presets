@@ -3,7 +3,7 @@
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: chris, osd, hdzero, avatar, dji
-#$ AUTHOR: Chris
+#$ AUTHOR: Fallow FPV
 #$ DESCRIPTION: Exact OSD and display settings from Brawler on Betaflight 4.5.2.
 
 feature OSD

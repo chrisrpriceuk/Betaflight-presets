@@ -3,7 +3,7 @@
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: chris, rates, actual, freestyle
-#$ AUTHOR: Chris
+#$ AUTHOR: Fallow FPV
 #$ DESCRIPTION: Exact Rateprofile 1 settings from Brawler on Betaflight 4.5.2.
 
 rateprofile 1
