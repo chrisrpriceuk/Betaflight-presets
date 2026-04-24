@@ -4,7 +4,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: chris, rates, actual, freestyle
 #$ AUTHOR: Chris
-#$ DESCRIPTION: Exact Rateprofile 1 settings from BRAWLER 2 on Betaflight 4.5.2.
+#$ DESCRIPTION: Exact Rateprofile 1 settings from Brawler on Betaflight 4.5.2.
 
 rateprofile 1
 set rateprofile_name = -

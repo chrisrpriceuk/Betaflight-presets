@@ -4,10 +4,10 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: chris, osd, hdzero, avatar, dji
 #$ AUTHOR: Chris
-#$ DESCRIPTION: Exact OSD and display settings from BRAWLER 2 on Betaflight 4.5.2.
+#$ DESCRIPTION: Exact OSD and display settings from Brawler on Betaflight 4.5.2.
 
 feature OSD
-set craft_name = BRAWLER 2
+set craft_name = Brawler
 set pilot_name = -
 set osd_units = BRITISH
 set osd_warn_bitmask = 360447

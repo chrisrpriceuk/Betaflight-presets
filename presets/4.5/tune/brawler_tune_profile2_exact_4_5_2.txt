@@ -4,7 +4,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: brawler, tune, profile2, exact, rpm
 #$ AUTHOR: Chris
-#$ DESCRIPTION: Exact Profile 2 tune from BRAWLER 2 on Betaflight 4.5.2.
+#$ DESCRIPTION: Exact Profile 2 tune from Brawler on Betaflight 4.5.2.
 #$ DESCRIPTION: Intended for similar builds; always back up and test safely.
 
 feature AIRMODE

@@ -163,7 +163,7 @@
   "presets": [
     {
       "fullPath": "presets/4.5/osd/Chris_osd_4_5_2.txt",
-      "hash": "65965e0dc0abaea4611230cb60276e51a7d34d5df58d931a66f02aa1ccb02366",
+      "hash": "5960b11f080877c6b773f907998f5401872cdafcc398b6dc71be4ee2e8968114",
       "title": "Chris OSD 4.5.2",
       "firmware_version": [
         "4.5"
@@ -182,7 +182,7 @@
     },
     {
       "fullPath": "presets/4.5/rates/Chris_rates_rp1_4_5_2.txt",
-      "hash": "de6e7a49b7f9d229fed3c3cd39159be065224277dabaa3cb320386a001b0d978",
+      "hash": "a0597a9e17b4a326295bcf32c97ca94d77b871e8eea0a51c6aaa51e683b79101",
       "title": "Chris Rates RP1 4.5.2",
       "firmware_version": [
         "4.5"
@@ -200,7 +200,7 @@
     },
     {
       "fullPath": "presets/4.5/tune/brawler_tune_profile2_exact_4_5_2.txt",
-      "hash": "f2ccef4616e569de7ebfe067f08a8590daadf3d4833cefb6af886af29589b724",
+      "hash": "fa9869dc6fc22d6e8955fec3ba48a70e4cca59ef8c6117e2d04ad16b0a761c06",
       "title": "Brawler Tune Profile 2 Exact 4.5.2",
       "firmware_version": [
         "4.5"
