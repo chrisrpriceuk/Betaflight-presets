@@ -1,4 +1,4 @@
-#$ TITLE: Chris Rates RP1 4.5.2
+#$ TITLE: Chris Rates 4.5.2
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY

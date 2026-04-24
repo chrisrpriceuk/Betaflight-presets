@@ -1,4 +1,4 @@
-#$ TITLE: Brawler Tune Profile 2 Exact 4.5.2
+#$ TITLE: Brawler Tune 4.5.2
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: TUNE
 #$ STATUS: COMMUNITY
