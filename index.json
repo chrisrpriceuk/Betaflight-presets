@@ -142,6 +142,7 @@
       "TUNE"
     ],
     "author": [
+      "Ads",
       "Fallow FPV"
     ],
     "keywords": [
@@ -200,7 +201,7 @@
     },
     {
       "fullPath": "presets/4.5/tune/brawler_tune_profile2_exact_4_5_2.txt",
-      "hash": "0ea5e19a3fbc0ad8514082a9c6f2b4ee1ae2aa2f69c84929a4f9f02965478ca0",
+      "hash": "f27ebe249cceea3ace7f32cd43e77298b1c1b7b7eec3e64a7c530424b8eda105",
       "title": "Brawler Tune 4.5.2",
       "firmware_version": [
         "4.5"
@@ -214,7 +215,7 @@
         "exact",
         "rpm"
       ],
-      "author": "Fallow FPV",
+      "author": "Ads",
       "priority": 1000000000000
     }
   ]
