@@ -14,7 +14,6 @@ In Betaflight Configurator:
 
 - `presets/4.5/osd/Chris_osd_4_5_2.txt`
 - `presets/4.5/rates/Chris_rates_rp1_4_5_2.txt`
-- `presets/4.5/tune/brawler_tune_profile2_exact_4_5_2.txt`
 
 ## Update Workflow
 

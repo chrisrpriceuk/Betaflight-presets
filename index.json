@@ -138,27 +138,20 @@
     ],
     "category": [
       "OSD",
-      "RATES",
-      "TUNE"
+      "RATES"
     ],
     "author": [
-      "Ads",
       "Fallow FPV"
     ],
     "keywords": [
       "actual",
       "avatar",
-      "brawler",
       "chris",
       "dji",
-      "exact",
       "freestyle",
       "hdzero",
       "osd",
-      "profile2",
-      "rates",
-      "rpm",
-      "tune"
+      "rates"
     ]
   },
   "presets": [
@@ -198,25 +191,6 @@
       ],
       "author": "Fallow FPV",
       "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.5/tune/brawler_tune_profile2_exact_4_5_2.txt",
-      "hash": "e5025020df06bfe42e7aad79ff68d58b4d974c60b2bd6dbd79342b54486e0611",
-      "title": "Brawler Tune 4.5.2",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "brawler",
-        "tune",
-        "profile2",
-        "exact",
-        "rpm"
-      ],
-      "author": "Ads",
-      "priority": 1000000000000
     }
   ]
 }
